@@ -43,7 +43,7 @@ If the tutorial template isn't something you want to use, Ionic has a few templa
 - `super`: starter project with over 14 ready to use page designs
 - `tutorial`: a guided starter project
 
-If you don't specify a template by running `ionic start MyIonicProject`, the [tabs template](https://github.com/ionic-team/ionic2-starter-tabs) will be used.
+If you don't specify a template by running `ionic start MyIonicProject`, the cli tool will allow you to select a template.
 
 
 
